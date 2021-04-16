@@ -64,16 +64,24 @@
 
 // Answer # 5
 
-var table=5
+// var table=5
 
-document.write("<h1>"+"Table of "+ table + "</h1>")
-document.write("<h3>"+table + " x " + 1 + " = " + table*1 + "</h3>")
-document.write("<h3>"+table + " x " + 2 + " = " + table*2 + "</h3>")
-document.write("<h3>"+table + " x " + 3 + " = " + table*3 + "</h3>")
-document.write("<h3>"+table + " x " + 4 + " = " + table*4 + "</h3>")
-document.write("<h3>"+table + " x " + 5 + " = " + table*5 + "</h3>")
-document.write("<h3>"+table + " x " + 6 + " = " + table*6 + "</h3>")
-document.write("<h3>"+table + " x " + 7 + " = " + table*7 + "</h3>")
-document.write("<h3>"+table + " x " + 8 + " = " + table*8 + "</h3>")
-document.write("<h3>"+table + " x " + 9 + " = " + table*9 + "</h3>")
-document.write("<h3>"+table + " x " + 10 + " = " + table*10 + "</h3>")
+// document.write("<h1>"+"Table of "+ table + "</h1>")
+// document.write("<h3>"+table + " x " + 1 + " = " + table*1 + "</h3>")
+// document.write("<h3>"+table + " x " + 2 + " = " + table*2 + "</h3>")
+// document.write("<h3>"+table + " x " + 3 + " = " + table*3 + "</h3>")
+// document.write("<h3>"+table + " x " + 4 + " = " + table*4 + "</h3>")
+// document.write("<h3>"+table + " x " + 5 + " = " + table*5 + "</h3>")
+// document.write("<h3>"+table + " x " + 6 + " = " + table*6 + "</h3>")
+// document.write("<h3>"+table + " x " + 7 + " = " + table*7 + "</h3>")
+// document.write("<h3>"+table + " x " + 8 + " = " + table*8 + "</h3>")
+// document.write("<h3>"+table + " x " + 9 + " = " + table*9 + "</h3>")
+// document.write("<h3>"+table + " x " + 10 + " = " + table*10 + "</h3>")
+
+// Answer # 6
+
+// var C=25
+// var F=70
+
+// document.write( C =(F-32)*5/9)
+// document.write( F =(C* 9/5)+32)

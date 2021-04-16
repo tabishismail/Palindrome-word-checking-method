@@ -132,3 +132,7 @@
 // document.write("<div> Current Year " + currentYear+"</div>")
 // document.write("<div> Birth Year " +birthYear +"</div>")
 // document.write("<div> Your Age is " + (currentYear - birthYear) +"</div>")
+
+// Answer # 12
+
+// Pending

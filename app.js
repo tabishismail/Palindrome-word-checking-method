@@ -149,3 +149,25 @@
 // document.write("<div> Estimated Maximum Age : "+maxAge+"</div>")
 // document.write("<div> Amount Of Snacks per day : "+snackPerDay+"</div>")
 // document.write("<div>"+ "You will need "+ (((maxAge-c_age)*365)*snackPerDay)+" "+f_snack + " to last you until the ripe old age of " + maxAge+ "</div>")
+
+// *******************************************
+
+// // Chapter # 6 to 9
+
+// var a=10
+
+// document.write("<div>Result :</div>")
+// document.write("<div>The Value of a is : "+ a+"</div>")
+// document.write("<div>.......................................</div>")
+// document.write("<div>The Value of ++a is : "+ ++a +"</div>")
+// document.write("<div>Now The Value of a is : "+ a +"</div>")
+// document.write("<div>.......................................</div>")
+// document.write("<div>The Value of a++ is : "+ a++ +"</div>")
+// document.write("<div>Now The Value of a is : "+ a +"</div>")
+// document.write("<div>.......................................</div>")
+// document.write("<div>The Value of --a is : "+ --a +"</div>")
+// document.write("<div>Now The Value of a is : "+ a +"</div>")
+// document.write("<div>.......................................</div>")
+// document.write("<div>The Value of a-- is : "+ a-- +"</div>")
+// document.write("<div>Now The Value of a is : "+ a +"</div>")
+// document.write("<div>.......................................</div>")

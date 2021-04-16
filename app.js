@@ -108,3 +108,12 @@
 // document.write("<div>"+"Total Marks : "+ tm+"</div>")
 // document.write("<div>"+"Marks Obtained : "+ om+"</div>")
 // document.write("<div>"+"Percentage : "+ (om/tm)*100+"%"+"</div>")
+
+// Answer # 9
+
+// var us_dollar= 104.80
+// var sar=28
+
+// document.write("<h1>Currency In PKR</h1>")
+
+document.write("<div>"+"Total Currency in PKR : "+ ((10*us_dollar)+(25*sar))+"</div>")

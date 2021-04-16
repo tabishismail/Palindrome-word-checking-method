@@ -123,3 +123,12 @@
 // var num=10
 
 // document.write(((num+5)*10)/2)
+
+// Answer # 11
+
+// var currentYear= 2021
+// var birthYear= 1990
+
+// document.write("<div> Current Year " + currentYear+"</div>")
+// document.write("<div> Birth Year " +birthYear +"</div>")
+// document.write("<div> Your Age is " + (currentYear - birthYear) +"</div>")

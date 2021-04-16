@@ -82,6 +82,5 @@
 
 // var C=25
 // var F=70
-
-// document.write( C =(F-32)*5/9)
-// document.write( F =(C* 9/5)+32)
+// document.write("25<sup>0</sup>C is "+ (C =(F-32)*5/9) + "<sup>0</sup>F <br>" )
+// document.write("70<sup>0</sup>F is "+(F =(C * 9/5)+32) + "<sup>0</sup>C")

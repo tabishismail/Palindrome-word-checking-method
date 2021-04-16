@@ -116,4 +116,10 @@
 
 // document.write("<h1>Currency In PKR</h1>")
 
-document.write("<div>"+"Total Currency in PKR : "+ ((10*us_dollar)+(25*sar))+"</div>")
+// document.write("<div>"+"Total Currency in PKR : "+ ((10*us_dollar)+(25*sar))+"</div>")
+
+// Answer # 10
+
+// var num=10
+
+// document.write(((num+5)*10)/2)

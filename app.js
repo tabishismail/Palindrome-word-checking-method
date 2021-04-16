@@ -136,3 +136,16 @@
 // Answer # 12
 
 // Pending
+
+// Answer # 13
+
+// var f_snack="Cocomo"
+// var c_age= 31
+// var maxAge=70
+// var snackPerDay=5
+
+// document.write("<div> Favourite Snack : "+f_snack+"</div>")
+// document.write("<div> Current Age : "+c_age+"</div>")
+// document.write("<div> Estimated Maximum Age : "+maxAge+"</div>")
+// document.write("<div> Amount Of Snacks per day : "+snackPerDay+"</div>")
+// document.write("<div>"+ "You will need "+ (((maxAge-c_age)*365)*snackPerDay)+" "+f_snack + " to last you until the ripe old age of " + maxAge+ "</div>")

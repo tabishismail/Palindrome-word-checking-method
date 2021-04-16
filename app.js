@@ -99,3 +99,12 @@
 // document.write("<div>"+"Quantity of item 2 is " + q_o_2 +"</div>")
 // document.write("<div>"+"Shipping Charges " + shippingCharges +"</div>")
 // document.write("<div>"+"The cost of your order is " +(((priceOfItem1*q_o_1)+(priceOfItem2*q_o_2))+shippingCharges)+"</div>")
+
+// Answer # 8
+
+// var tm= 980
+// var om=804
+
+// document.write("<div>"+"Total Marks : "+ tm+"</div>")
+// document.write("<div>"+"Marks Obtained : "+ om+"</div>")
+// document.write("<div>"+"Percentage : "+ (om/tm)*100+"%"+"</div>")

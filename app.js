@@ -84,3 +84,18 @@
 // var F=70
 // document.write("25<sup>0</sup>C is "+ (C =(F-32)*5/9) + "<sup>0</sup>F <br>" )
 // document.write("70<sup>0</sup>F is "+(F =(C * 9/5)+32) + "<sup>0</sup>C")
+
+// Answer # 7
+
+// var priceOfItem1=650
+// var priceOfItem2=100
+// var shippingCharges=100
+// var q_o_1=3
+// var q_o_2=7
+
+// document.write("<div>"+"Price of item 1 is " + priceOfItem1 +"</div>")
+// document.write("<div>"+"Quantity of item 1 is " + q_o_1 +"</div>")
+// document.write("<div>"+"Price of item 2 is " + priceOfItem2 +"</div>")
+// document.write("<div>"+"Quantity of item 2 is " + q_o_2 +"</div>")
+// document.write("<div>"+"Shipping Charges " + shippingCharges +"</div>")
+// document.write("<div>"+"The cost of your order is " +(((priceOfItem1*q_o_1)+(priceOfItem2*q_o_2))+shippingCharges)+"</div>")

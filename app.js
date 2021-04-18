@@ -176,13 +176,19 @@
 
 // Answer # 2
 
-var a=2 , b=1
-var result= --a - --b + ++b + b--;
+// var a=2 , b=1
+// var result= --a - --b + ++b + b--;
 
-document.write("<div>"+ (--a) +"</div>")
-document.write("<div>"+(--a - --b)+"</div>")
-document.write("<div>"+(--a - --b + ++b)+"</div>")
-document.write("<div>"+(--a - --b + ++b + b--)+"</div>")
-document.write("<div>"+"a is "+a +"</div>")
-document.write("<div>"+"b is "+b +"</div>")
-document.write("<div>"+"result is "+result +"</div>")
+// document.write("<div>"+ (--a) +"</div>")
+// document.write("<div>"+(--a - --b)+"</div>")
+// document.write("<div>"+(--a - --b + ++b)+"</div>")
+// document.write("<div>"+(--a - --b + ++b + b--)+"</div>")
+// document.write("<div>"+"a is "+a +"</div>")
+// document.write("<div>"+"b is "+b +"</div>")
+// document.write("<div>"+"result is "+result +"</div>")
+
+// Answer # 3
+
+// var name= prompt("Enter Your Name ")
+
+// alert("Hello "+name+ "\n Welcome to the World of Developers " )

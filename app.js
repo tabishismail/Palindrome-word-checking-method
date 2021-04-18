@@ -154,6 +154,8 @@
 
 // // Chapter # 6 to 9
 
+// Answer # 1 
+
 // var a=10
 
 // document.write("<div>Result :</div>")
@@ -171,3 +173,16 @@
 // document.write("<div>The Value of a-- is : "+ a-- +"</div>")
 // document.write("<div>Now The Value of a is : "+ a +"</div>")
 // document.write("<div>.......................................</div>")
+
+// Answer # 2
+
+var a=2 , b=1
+var result= --a - --b + ++b + b--;
+
+document.write("<div>"+ (--a) +"</div>")
+document.write("<div>"+(--a - --b)+"</div>")
+document.write("<div>"+(--a - --b + ++b)+"</div>")
+document.write("<div>"+(--a - --b + ++b + b--)+"</div>")
+document.write("<div>"+"a is "+a +"</div>")
+document.write("<div>"+"b is "+b +"</div>")
+document.write("<div>"+"result is "+result +"</div>")

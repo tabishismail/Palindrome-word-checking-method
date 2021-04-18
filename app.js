@@ -192,3 +192,36 @@
 // var name= prompt("Enter Your Name ")
 
 // alert("Hello "+name+ "\n Welcome to the World of Developers " )
+
+// Answer # 4
+
+
+// var table=5
+
+// user = +prompt("Enter The Number")
+// if(user == 0){    
+//     document.write("<h1>"+"Table of "+ table + "</h1>")
+//     document.write("<h3>"+table + " x " + 1 + " = " + table*1 + "</h3>")
+//     document.write("<h3>"+table + " x " + 2 + " = " + table*2 + "</h3>")
+//     document.write("<h3>"+table + " x " + 3 + " = " + table*3 + "</h3>")
+//     document.write("<h3>"+table + " x " + 4 + " = " + table*4 + "</h3>")
+//     document.write("<h3>"+table + " x " + 5 + " = " + table*5 + "</h3>")
+//     document.write("<h3>"+table + " x " + 6 + " = " + table*6 + "</h3>")
+//     document.write("<h3>"+table + " x " + 7 + " = " + table*7 + "</h3>")
+//     document.write("<h3>"+table + " x " + 8 + " = " + table*8 + "</h3>")
+//     document.write("<h3>"+table + " x " + 9 + " = " + table*9 + "</h3>")
+//     document.write("<h3>"+table + " x " + 10 + " = " + table*10 + "</h3>")    
+// }
+// else{    
+//     document.write("<h1>"+"Table of "+ user + "</h1>")
+//     document.write("<h3>"+user + " x " + 1 + " = " + user*1 + "</h3>")
+//     document.write("<h3>"+user + " x " + 2 + " = " + user*2 + "</h3>")
+//     document.write("<h3>"+user + " x " + 3 + " = " + user*3 + "</h3>")
+//     document.write("<h3>"+user + " x " + 4 + " = " + user*4 + "</h3>")
+//     document.write("<h3>"+user + " x " + 5 + " = " + user*5 + "</h3>")
+//     document.write("<h3>"+user + " x " + 6 + " = " + user*6 + "</h3>")
+//     document.write("<h3>"+user + " x " + 7 + " = " + user*7 + "</h3>")
+//     document.write("<h3>"+user + " x " + 8 + " = " + user*8 + "</h3>")
+//     document.write("<h3>"+user + " x " + 9 + " = " + user*9 + "</h3>")
+//     document.write("<h3>"+user + " x " + 10 + " = " + user*10 + "</h3>")
+// }

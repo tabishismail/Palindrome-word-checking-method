@@ -273,3 +273,16 @@
     
 //     alert("Move Now....")
 // }
+
+// Assignment # 4
+
+// var fuel = +prompt("How much fuel remaing in your car????")
+
+// if(fuel >= 1){
+    
+//     alert("Try to refill soon....")
+// }
+// else if(fuel <= 0.99){
+    
+//     alert("Please refill the fuel in your car")
+// }

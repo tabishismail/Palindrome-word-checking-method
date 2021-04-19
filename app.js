@@ -197,7 +197,6 @@
 
 
 // var table=5
-
 // user = +prompt("Enter The Number")
 // if(user == 0){    
 //     document.write("<h1>"+"Table of "+ table + "</h1>")
@@ -225,3 +224,11 @@
 //     document.write("<h3>"+user + " x " + 9 + " = " + user*9 + "</h3>")
 //     document.write("<h3>"+user + " x " + 10 + " = " + user*10 + "</h3>")
 // }
+
+// Answer # 6 (Pending)
+
+// var subName1= prompt("Enter First Subject Name")
+// var subName2= prompt("Enter First Subject Name")
+// var subName3= prompt("Enter First Subject Name")
+
+

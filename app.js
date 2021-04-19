@@ -256,3 +256,20 @@
     
 //     alert("Good Morning Ma'am....")
 // }
+
+// Assignment # 3
+
+// var color = prompt("Enter colour of traffic signal")
+
+// if(color=== "Red"){
+    
+//     alert("Must Stop....")
+// }
+// else if(color=== "Yellow"){
+    
+//     alert("Ready to Move....")
+// }
+// else if(color=== "Green"){
+    
+//     alert("Move Now....")
+// }

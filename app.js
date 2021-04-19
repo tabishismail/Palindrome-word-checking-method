@@ -340,3 +340,29 @@
 // if("car" < "cat"){
 //     alert("car is smaller than cat");
 //     }
+
+// Assignment # 6
+
+// var english= +prompt(" Enter English marks out of 100")
+// var urdu= +prompt(" Enter Urdu marks out of 100")
+// var math= +prompt(" Enter Maths marks out of 100")
+// var totalMarks = 300
+// var obtainedMarks = english+urdu+math
+// var percentage= (obtainedMarks/totalMarks)*100
+
+// document.write("<h1> Marks Sheet</h1>")
+// document.write("<div> Total Marks :"+totalMarks+"</div>")
+// document.write("<div> Obtained Marks :"+obtainedMarks+"</div>")
+// document.write("<div> Percentage :"+percentage+"%"+"</div>")
+// if(percentage>=80 && percentage<=100){
+//     document.write("<div> A-One</div>"+"<div>Remarks : Excellent </div>")
+// }
+// else if(percentage>=70 && percentage<80){
+//     document.write("<div> A</div>"+"<div>Remarks : Good </div>")
+// }
+// else if(percentage>=60 && percentage<70){
+//     document.write("<div> B</div>"+"<div>Remarks : You need to improve </div>")
+// }
+// else if(percentage < 60 ){
+//     document.write("<div> Fail</div>"+"<div>Remarks : Sorry </div>")
+// }

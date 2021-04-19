@@ -230,5 +230,15 @@
 // var subName1= prompt("Enter First Subject Name")
 // var subName2= prompt("Enter First Subject Name")
 // var subName3= prompt("Enter First Subject Name")
+// *************
 
+// Chapter 9 to 11
 
+// Assignment # 1
+
+// var cityName = prompt("Enter Your City Name")
+
+// if(cityName=== "Karachi"){
+    
+//     alert("Welcome to the City of Lights....")
+// }

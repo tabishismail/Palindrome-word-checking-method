@@ -371,10 +371,10 @@
 
 var num=6
 var user = +prompt("Enter your guess number")
-var almost = user+1
+
 if(num===user){
 alert("Bingo! Correct answer.")
 }
-else if (num===almost){
+else if (num===++user){
     alert("Close enough to the correct answer")
 }

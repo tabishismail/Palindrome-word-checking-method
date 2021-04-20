@@ -366,3 +366,15 @@
 // else if(percentage < 60 ){
 //     document.write("<div> Fail</div>"+"<div>Remarks : Sorry </div>")
 // }
+
+// Assignment # 7
+
+var num=6
+var user = +prompt("Enter your guess number")
+var almost = user+1
+if(num===user){
+alert("Bingo! Correct answer.")
+}
+else if (num===almost){
+    alert("Close enough to the correct answer")
+}

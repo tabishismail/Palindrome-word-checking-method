@@ -388,3 +388,13 @@
 // } else {
 //     alert("divisible not by 3");
 // } 
+
+// Assignment # 9
+
+var i =+prompt("Enter the Number");
+
+if (i % 2 == 0) {
+ alert("Its an Even Number");
+} else {
+    alert("Its a Odd Number");
+}

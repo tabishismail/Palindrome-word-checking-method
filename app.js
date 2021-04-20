@@ -369,12 +369,22 @@
 
 // Assignment # 7
 
-var num=6
-var user = +prompt("Enter your guess number")
+// var num=6
+// var user = +prompt("Enter your guess number")
 
-if(num===user){
-alert("Bingo! Correct answer.")
-}
-else if (num===++user){
-    alert("Close enough to the correct answer")
-}
+// if(num===user){
+// alert("Bingo! Correct answer.")
+// }
+// else if (num===++user){
+//     alert("Close enough to the correct answer")
+// }
+
+// Assignment # 8
+
+// var i =+prompt("Enter the Number");
+
+// if (i % 3 == 0) {
+//  alert("divisible by 3");
+// } else {
+//     alert("divisible not by 3");
+// } 

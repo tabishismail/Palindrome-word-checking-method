@@ -391,10 +391,27 @@
 
 // Assignment # 9
 
-var i =+prompt("Enter the Number");
+// var i =+prompt("Enter the Number");
 
-if (i % 2 == 0) {
- alert("Its an Even Number");
-} else {
-    alert("Its a Odd Number");
-}
+// if (i % 2 == 0) {
+//  alert("Its an Even Number");
+// } else {
+//     alert("Its a Odd Number");
+// }
+
+// Assignment # 10
+
+// var i= +prompt("Enter Temperature")
+
+// if(i >=40){
+// document.write("It is too hot outside.")
+// }
+// else if (i>=30 && i<40){
+//     document.write("The Weather today is Normal.")
+// }
+// else if (i>=20 && i<30){
+//     document.write("Today’s Weather is cool.")
+// }
+// else if (i>=10 && i<20){
+//     document.write("OMG! Today’s weather is so Cool.")
+// }

@@ -415,3 +415,20 @@
 // else if (i>=10 && i<20){
 //     document.write("OMG! Today’s weather is so Cool.")
 // }
+
+// CHAPTER 12 AND 13 
+
+// Assignment # 01
+
+var user= prompt("Enter any number or any letter")
+
+if(user>="A" && user<="Z"){
+    document.write("You have enter Uppercase Letter")
+}
+else if(user>="a" && user<="z"){
+    document.write("You have enter Lowercase Letter")
+}
+
+else{
+    document.write("You have not enter alphabet")
+}

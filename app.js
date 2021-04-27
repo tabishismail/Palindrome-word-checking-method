@@ -447,3 +447,19 @@
 // else{
 //     document.write(a+ " a is greater than i ")
 // }
+
+// Assignment # 03
+
+var i = +prompt("Enter any number")
+
+if(i===0){
+    document.write("Its a Zero")
+}
+else if(i>0){
+    document.write("Its a Positive Number")
+}
+else {
+    
+        document.write("Its a Negative Number")
+    
+}

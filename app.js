@@ -420,15 +420,30 @@
 
 // Assignment # 01
 
-var user= prompt("Enter any number or any letter")
+// var user= prompt("Enter any number or any letter")
 
-if(user>="A" && user<="Z"){
-    document.write("You have enter Uppercase Letter")
-}
-else if(user>="a" && user<="z"){
-    document.write("You have enter Lowercase Letter")
-}
+// if(user>="A" && user<="Z"){
+//     document.write("You have enter Uppercase Letter")
+// }
+// else if(user>="a" && user<="z"){
+//     document.write("You have enter Lowercase Letter")
+// }
 
-else{
-    document.write("You have not enter alphabet")
-}
+// else{
+//     document.write("You have not enter alphabet")
+// }
+
+// Assignment # 02
+
+// var i = +prompt("enter integer number 1")
+// var a = +prompt("enter integer number 2")
+
+// if(i>a ){
+// document.write(i + " i is greater then a ")
+// }
+// else if(i===a){
+//     document.write(i +" i is equal to a " + a )
+// }
+// else{
+//     document.write(a+ " a is greater than i ")
+// }

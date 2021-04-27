@@ -450,16 +450,46 @@
 
 // Assignment # 03
 
-var i = +prompt("Enter any number")
+// var i = +prompt("Enter any number")
 
-if(i===0){
-    document.write("Its a Zero")
-}
-else if(i>0){
-    document.write("Its a Positive Number")
-}
-else {
+// if(i===0){
+//     document.write("Its a Zero")
+// }
+// else if(i>0){
+//     document.write("Its a Positive Number")
+// }
+// else {
     
-        document.write("Its a Negative Number")
+//         document.write("Its a Negative Number")
     
-}
+// }
+
+// Assignment # 04
+
+// Pending
+
+// Assignment # 05
+
+// var password = "hello"
+
+// var userPassword = prompt("Enter Your Password")
+
+// if (password === userPassword){
+
+//     alert("You have enter Correct Password")
+    
+// }
+// else if (userPassword == 0){
+
+//     var userPassword = prompt("Enter Your Password !!!")
+//     if (password === userPassword){
+//         alert("You have enter Correct Password")
+//     }
+// else{
+//     alert("You have enter wrong Password")
+// }
+// }
+
+// else{
+//     alert("You have enter wrong Password")
+// }

@@ -546,3 +546,14 @@
 // Assignment # 4
 
 // var myNum=[1,2,3,4,5,6,7,8];
+
+// Assignment # 5
+
+// var array=[];
+
+// array[0] = true;
+//     array[1] = false;
+//     array[2] = false;
+//     array[3] = false;
+
+//     console.log(array)

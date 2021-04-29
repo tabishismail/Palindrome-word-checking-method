@@ -557,3 +557,14 @@
 //     array[3] = false;
 
 //     console.log(array)
+
+// Assignment # 6
+
+// var array=[];
+
+//     array[0] = true;
+//     array[1] = 1;
+//     array[2] = 2;
+//     array[3] = "Three";
+//     array[4] = false;
+//     console.log(array)

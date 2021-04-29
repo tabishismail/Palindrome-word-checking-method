@@ -535,3 +535,8 @@
 // var studentNames = [];
 
 
+// Assignment # 2
+// Js Object Notation
+// var studentNames = new Array();
+
+

@@ -568,3 +568,10 @@
 //     array[3] = "Three";
 //     array[4] = false;
 //     console.log(array)
+
+// Assignment # 7
+
+var pakEducation = ["SSC","HSC","BCS","BS","BCOM","MS","M. Phil.","PhD"]
+
+document.write("<h1>Qualification</h1>")
+document.write("<ol>","<li>"+pakEducation[0]+"</li>"+"<li>"+pakEducation[1]+"</li>"+"<li>"+pakEducation[2]+"</li>"+"<li>"+pakEducation[3]+"</li>"+"<li>"+pakEducation[4]+"</li>"+"<li>"+pakEducation[5]+"</li>"+"<li>"+pakEducation[6]+"</li>"+"<li>"+pakEducation[7]+"</li>"+"</ol>")

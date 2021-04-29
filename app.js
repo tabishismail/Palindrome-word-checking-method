@@ -640,7 +640,15 @@
 
 // Assignment # 11
 
-var cities = ["Islamabad","Karachi","Lahore","Multan","Quetta"];
-document.write("<div>","Cities of Pakistan : "+ cities+"</div>");
-var selectedCities = cities.slice(2,4);
-document.write("<div>","Selected cities of Pakistan : "+ selectedCities+"</div>");
+// var cities = ["Islamabad","Karachi","Lahore","Multan","Quetta"];
+// document.write("<div>","Cities of Pakistan : "+ cities+"</div>");
+// var selectedCities = cities.slice(2,4);
+// document.write("<div>","Selected cities of Pakistan : "+ selectedCities+"</div>");
+
+// Assignment # 12
+
+var arr = ["This","is","my","cat"];
+document.write("<div>"+arr+"</div>");
+var newArr = arr.join(' ');
+
+document.write("<div>"+newArr+"</div>");

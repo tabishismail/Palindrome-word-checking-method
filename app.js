@@ -543,4 +543,6 @@
 
 // var cars=["BMW", "Mehran","Suzuki","Kia"];
 
+// Assignment # 4
 
+// var myNum=[1,2,3,4,5,6,7,8];

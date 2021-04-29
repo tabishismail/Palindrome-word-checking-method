@@ -633,7 +633,14 @@
 
 // Assignment # 10
 
-var studScore=[320,230,480,120];
-document.write("<div>","Score of Students : "+studScore+"</div>");
-studScore.sort();
-document.write("<div>","Order score of Students : "+studScore+"</div>");
+// var studScore=[320,230,480,120];
+// document.write("<div>","Score of Students : "+studScore+"</div>");
+// studScore.sort();
+// document.write("<div>","Order score of Students : "+studScore+"</div>");
+
+// Assignment # 11
+
+var cities = ["Islamabad","Karachi","Lahore","Multan","Quetta"];
+document.write("<div>","Cities of Pakistan : "+ cities+"</div>");
+var selectedCities = cities.slice(2,4);
+document.write("<div>","Selected cities of Pakistan : "+ selectedCities+"</div>");

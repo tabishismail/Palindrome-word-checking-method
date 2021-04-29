@@ -571,7 +571,16 @@
 
 // Assignment # 7
 
-var pakEducation = ["SSC","HSC","BCS","BS","BCOM","MS","M. Phil.","PhD"]
+// var pakEducation = ["SSC","HSC","BCS","BS","BCOM","MS","M. Phil.","PhD"]
 
-document.write("<h1>Qualification</h1>")
-document.write("<ol>","<li>"+pakEducation[0]+"</li>"+"<li>"+pakEducation[1]+"</li>"+"<li>"+pakEducation[2]+"</li>"+"<li>"+pakEducation[3]+"</li>"+"<li>"+pakEducation[4]+"</li>"+"<li>"+pakEducation[5]+"</li>"+"<li>"+pakEducation[6]+"</li>"+"<li>"+pakEducation[7]+"</li>"+"</ol>")
+// document.write("<h1>Qualification</h1>")
+// document.write("<ol>","<li>"+pakEducation[0]+"</li>"+"<li>"+pakEducation[1]+"</li>"+"<li>"+pakEducation[2]+"</li>"+"<li>"+pakEducation[3]+"</li>"+"<li>"+pakEducation[4]+"</li>"+"<li>"+pakEducation[5]+"</li>"+"<li>"+pakEducation[6]+"</li>"+"<li>"+pakEducation[7]+"</li>"+"</ol>")
+
+// Assignment # 8
+
+var studName=["Micheal","John","Tony"];
+var obtainedMarks=[320,230,480];
+
+document.write("<h1>","Score of "+studName[0]+" is "+ obtainedMarks[0]+"." +" Percentage :"+(obtainedMarks[0]/500)*100+"%"+ "</h1>");
+document.write("<h1>","Score of "+studName[1]+" is "+ obtainedMarks[1]+"." +" Percentage :"+(obtainedMarks[1]/500)*100+"%"+ "</h1>");
+document.write("<h1>","Score of "+studName[2]+" is "+ obtainedMarks[2]+"." +" Percentage :"+(obtainedMarks[2]/500)*100+"%"+ "</h1>");

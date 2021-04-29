@@ -678,3 +678,8 @@
 // document.write("<div>"+devices.pop()+"</div>");
 // document.write("<div>","Out","</div>");
 // document.write("<div>"+devices.pop()+"</div>");
+
+// Assignment # 15
+
+// var brands = ["Apple","Samsung","Motorola","Nokia","Sony","Haier"]
+// document.write("<select>","<option>"+brands[0]+"</option>"+"<option>"+brands[1]+"</option>"+"<option>"+brands[2]+"</option>"+"<option>"+brands[3]+"</option>"+"<option>"+brands[4]+"</option>"+"<option>"+brands[5]+"</option>"+"</select>")

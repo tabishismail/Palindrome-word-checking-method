@@ -539,4 +539,8 @@
 // Js Object Notation
 // var studentNames = new Array();
 
+// Assignment # 3
+
+// var cars=["BMW", "Mehran","Suzuki","Kia"];
+
 

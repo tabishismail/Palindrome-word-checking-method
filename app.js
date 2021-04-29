@@ -665,3 +665,16 @@
 // document.write("<div>"+devices.shift()+"</div>");
 // document.write("<div>","Out","</div>");
 // document.write("<div>"+devices.shift()+"</div>");
+
+// Assignment # 14
+
+// var devices=["Keyboard","Mouse","Monitor","Printer"];
+// document.write("<div>"+devices+"</div>");
+// document.write("<div>","Out","</div>");
+// document.write("<div>"+devices.pop()+"</div>");
+// document.write("<div>","Out","</div>");
+// document.write("<div>"+devices.pop()+"</div>");
+// document.write("<div>","Out","</div>");
+// document.write("<div>"+devices.pop()+"</div>");
+// document.write("<div>","Out","</div>");
+// document.write("<div>"+devices.pop()+"</div>");

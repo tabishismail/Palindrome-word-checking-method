@@ -630,3 +630,10 @@
 // colors.splice(userIndex,userPos);
 
 // document.write("<h1>"+ colors +"</h1>");
+
+// Assignment # 10
+
+var studScore=[320,230,480,120];
+document.write("<div>","Score of Students : "+studScore+"</div>");
+studScore.sort();
+document.write("<div>","Order score of Students : "+studScore+"</div>");

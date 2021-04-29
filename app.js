@@ -528,4 +528,10 @@
 // }
 
 
+// CHAPTER 14
+
+// Assignment # 1
+// Js Literal Notation
+// var studentNames = [];
+
 

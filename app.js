@@ -578,9 +578,55 @@
 
 // Assignment # 8
 
-var studName=["Micheal","John","Tony"];
-var obtainedMarks=[320,230,480];
+// var studName=["Micheal","John","Tony"];
+// var obtainedMarks=[320,230,480];
 
-document.write("<h1>","Score of "+studName[0]+" is "+ obtainedMarks[0]+"." +" Percentage :"+(obtainedMarks[0]/500)*100+"%"+ "</h1>");
-document.write("<h1>","Score of "+studName[1]+" is "+ obtainedMarks[1]+"." +" Percentage :"+(obtainedMarks[1]/500)*100+"%"+ "</h1>");
-document.write("<h1>","Score of "+studName[2]+" is "+ obtainedMarks[2]+"." +" Percentage :"+(obtainedMarks[2]/500)*100+"%"+ "</h1>");
+// document.write("<h1>","Score of "+studName[0]+" is "+ obtainedMarks[0]+"." +" Percentage :"+(obtainedMarks[0]/500)*100+"%"+ "</h1>");
+// document.write("<h1>","Score of "+studName[1]+" is "+ obtainedMarks[1]+"." +" Percentage :"+(obtainedMarks[1]/500)*100+"%"+ "</h1>");
+// document.write("<h1>","Score of "+studName[2]+" is "+ obtainedMarks[2]+"." +" Percentage :"+(obtainedMarks[2]/500)*100+"%"+ "</h1>");
+
+// Assignment # 9
+
+// var colors=["green","red","yellow",];
+
+// document.write("<h1>"+ colors +"</h1>");
+
+// var user=prompt("Enter which color you want add in start??");
+
+// colors.unshift(user);
+
+// document.write("<h1>"+ colors +"</h1>");
+
+// var user=prompt("Enter which color you want add in end??");
+
+// colors.push(user);
+
+// document.write("<h1>"+ colors +"</h1>");
+
+// var user=prompt("Enter which color you want add in start??");
+
+// colors.unshift(user);
+
+// document.write("<h1>"+ colors +"</h1>");
+
+// colors.shift();
+
+// document.write("<h1>"+ colors +"</h1>");
+
+// colors.pop();
+
+// document.write("<h1>"+ colors +"</h1>");
+
+// var userIndex= +prompt("Enter Index Number where you want to add color??");
+
+// var user=prompt("Enter which color you want add??");
+
+// colors.splice(userIndex,0,user);
+
+// document.write("<h1>"+ colors +"</h1>");
+// var userIndex= +prompt("Enter Index Number where you want to delete color??");
+// var userPos= +prompt("Enter Index Number where you want to delete color??");
+
+// colors.splice(userIndex,userPos);
+
+// document.write("<h1>"+ colors +"</h1>");

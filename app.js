@@ -647,8 +647,21 @@
 
 // Assignment # 12
 
-var arr = ["This","is","my","cat"];
-document.write("<div>"+arr+"</div>");
-var newArr = arr.join(' ');
+// var arr = ["This","is","my","cat"];
+// document.write("<div>"+arr+"</div>");
+// var newArr = arr.join(' ');
 
-document.write("<div>"+newArr+"</div>");
+// document.write("<div>"+newArr+"</div>");
+
+// Assignment # 13
+
+// var devices=["Keyboard","Mouse","Monitor","Printer"];
+// document.write("<div>"+devices+"</div>");
+// document.write("<div>","Out","</div>");
+// document.write("<div>"+devices.shift()+"</div>");
+// document.write("<div>","Out","</div>");
+// document.write("<div>"+devices.shift()+"</div>");
+// document.write("<div>","Out","</div>");
+// document.write("<div>"+devices.shift()+"</div>");
+// document.write("<div>","Out","</div>");
+// document.write("<div>"+devices.shift()+"</div>");

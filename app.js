@@ -727,12 +727,39 @@
 
 // Assignment # 5
 
-var fruits = ["apple", "banana", "mango", "orange","strawberry"];
+// var fruits = ["apple", "banana", "mango", "orange","strawberry"];
 
-for(var i=0; i< fruits.length; i++ ){
+// for(var i=0; i< fruits.length; i++ ){
 
-    document.write(fruits[i]+"<br />")
-}
-for(var y=0;y<5;y++){
-    document.write("<br />"+"Element at index "+ y +" " +fruits[y])
-}
+//     document.write(fruits[i]+"<br />")
+// }
+// for(var y=0;y<5;y++){
+//     document.write("<br />"+"Element at index "+ y +" " +fruits[y])
+// }
+
+// Assignment # 6
+
+// var num = 10;
+
+// document.write("Counting ");
+
+// for(var a=0; a<=num; a++){
+//     document.write(a +", ")
+// }
+
+// document.write("<br />"+"Reverse Counting ")
+// for(var z=20;z>=0;z--){
+//     document.write(z+", ")
+// }
+// document.write("<br />"+"even ")
+// for(var a=0;a<=20;a++){
+//     if(a%2==0){
+//         document.write(a+", ")
+//     }
+// }
+// document.write("<br />"+"Odd ")
+// for(var a=0;a<=20;a++){
+//     if(a%2!==0){
+//         document.write(a+", ")
+//     }
+// }

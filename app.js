@@ -724,3 +724,15 @@
 //     document.write(userTable + " x "+ i + " = " + userTable * i + "<br />" )
 
 // }
+
+// Assignment # 5
+
+var fruits = ["apple", "banana", "mango", "orange","strawberry"];
+
+for(var i=0; i< fruits.length; i++ ){
+
+    document.write(fruits[i]+"<br />")
+}
+for(var y=0;y<5;y++){
+    document.write("<br />"+"Element at index "+ y +" " +fruits[y])
+}

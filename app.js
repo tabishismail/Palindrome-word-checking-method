@@ -683,3 +683,13 @@
 
 // var brands = ["Apple","Samsung","Motorola","Nokia","Sony","Haier"]
 // document.write("<select>","<option>"+brands[0]+"</option>"+"<option>"+brands[1]+"</option>"+"<option>"+brands[2]+"</option>"+"<option>"+brands[3]+"</option>"+"<option>"+brands[4]+"</option>"+"<option>"+brands[5]+"</option>"+"</select>")
+// ****************************************************************
+
+// Chapter # 17 to 20 
+
+// Assignment # 1
+
+var arr = [[0,1,2,3],[1,0,1,2],[2,1,0,1]];
+
+
+

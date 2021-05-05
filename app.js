@@ -804,3 +804,10 @@
 // document.write(A+"<br />");
 // document.write("the largest number is ");
 // document.write(Math.min(...A));
+
+// Assignment # 10
+
+// var num=5;
+// for(var a=1; a<=20;a++){
+//     document.write(num*a +" ")
+// }

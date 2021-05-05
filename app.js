@@ -790,3 +790,9 @@
 // if(flag ===false){
 //     document.write("We are sorry." +userInput+"is not available")
 // }
+
+// Assignment # 8
+
+// var A = [24, 53, 78, 91, 12]
+// document.write("the largest number is ")
+// document.write(Math.max(...A));

@@ -794,5 +794,13 @@
 // Assignment # 8
 
 // var A = [24, 53, 78, 91, 12]
+// document.write(A+"<br />");
 // document.write("the largest number is ")
 // document.write(Math.max(...A));
+
+// Assignment # 9
+
+// var A = [24, 53, 78, 91, 12]
+// document.write(A+"<br />");
+// document.write("the largest number is ");
+// document.write(Math.min(...A));

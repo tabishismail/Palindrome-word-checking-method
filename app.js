@@ -739,27 +739,36 @@
 
 // Assignment # 6
 
-// var num = 10;
+var num = 10;
 
-// document.write("Counting ");
+document.write("Counting: ");
 
-// for(var a=0; a<=num; a++){
-//     document.write(a +", ")
-// }
+for(var a=0; a<=num; a++){
+    document.write(a +", ")
+}
 
-// document.write("<br />"+"Reverse Counting ")
-// for(var z=20;z>=0;z--){
-//     document.write(z+", ")
-// }
-// document.write("<br />"+"even ")
-// for(var a=0;a<=20;a++){
-//     if(a%2==0){
-//         document.write(a+", ")
-//     }
-// }
-// document.write("<br />"+"Odd ")
-// for(var a=0;a<=20;a++){
-//     if(a%2!==0){
-//         document.write(a+", ")
-//     }
-// }
+document.write("<br />"+"Reverse Counting: ")
+for(var z=20;z>=0;z--){
+    document.write(z+", ")
+}
+
+document.write("<br />"+"Even: ")
+for(var a=0;a<=20;a++){
+    if(a%2==0){
+        document.write(a+", ")
+    }
+}
+
+document.write("<br />"+"Odd: ")
+for(var a=0;a<=20;a++){
+    if(a%2!==0){
+        document.write(a+", ")
+    }
+}
+
+document.write("<br />"+"Series: ")
+for(var a=2;a<=20;a++){
+    if(a%2==0){
+        document.write(a+"k , ")
+    }
+}

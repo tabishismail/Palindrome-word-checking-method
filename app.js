@@ -739,36 +739,54 @@
 
 // Assignment # 6
 
-var num = 10;
+// var num = 10;
 
-document.write("Counting: ");
+// document.write("Counting: ");
 
-for(var a=0; a<=num; a++){
-    document.write(a +", ")
-}
+// for(var a=0; a<=num; a++){
+//     document.write(a +", ")
+// }
 
-document.write("<br />"+"Reverse Counting: ")
-for(var z=20;z>=0;z--){
-    document.write(z+", ")
-}
+// document.write("<br />"+"Reverse Counting: ")
+// for(var z=20;z>=0;z--){
+//     document.write(z+", ")
+// }
 
-document.write("<br />"+"Even: ")
-for(var a=0;a<=20;a++){
-    if(a%2==0){
-        document.write(a+", ")
-    }
-}
+// document.write("<br />"+"Even: ")
+// for(var a=0;a<=20;a++){
+//     if(a%2==0){
+//         document.write(a+", ")
+//     }
+// }
 
-document.write("<br />"+"Odd: ")
-for(var a=0;a<=20;a++){
-    if(a%2!==0){
-        document.write(a+", ")
-    }
-}
+// document.write("<br />"+"Odd: ")
+// for(var a=0;a<=20;a++){
+//     if(a%2!==0){
+//         document.write(a+", ")
+//     }
+// }
 
-document.write("<br />"+"Series: ")
-for(var a=2;a<=20;a++){
-    if(a%2==0){
-        document.write(a+"k , ")
-    }
-}
+// document.write("<br />"+"Series: ")
+// for(var a=2;a<=20;a++){
+//     if(a%2==0){
+//         document.write(a+"k , ")
+//     }
+// }
+
+// Assignment # 7 
+
+// var arr = ["cake", "apple pie", "cookie", "chips", "patties"]
+// var userInput=prompt("Enter Value");
+
+// var flag=false;
+
+// for(var i=0; i<arr.length;i++){
+//     if(userInput === arr[i]){
+//         flag=true
+//         document.write(userInput+" is available in index ( "+i+" ) in our bakery")
+//     }
+
+// }
+// if(flag ===false){
+//     document.write("We are sorry." +userInput+"is not available")
+// }

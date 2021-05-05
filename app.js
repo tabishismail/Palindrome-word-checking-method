@@ -715,10 +715,12 @@
 
 // Assignment # 4
 
-var userTable = +prompt("Enter a number to show its multiplication table");
-var tableLength=+prompt("Enter Length multipication");
+// var userTable = +prompt("Enter a number to show its multiplication table");
+// var tableLength=+prompt("Enter Length multipication");
 
-for(var i = 1; i<=tableLength; i++){
-    document.write(userTable + " x "+ i + " = " + userTable * i + "<br />" )
+// document.write ("<h1>"+ "Multipication table of "+userTable+"</h1>")
+// document.write ("<h1>"+ "Length "+tableLength+"</h1>")
+// for(var i = 1; i<=tableLength; i++){
+//     document.write(userTable + " x "+ i + " = " + userTable * i + "<br />" )
 
-}
+// }

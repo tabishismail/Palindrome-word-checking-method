@@ -689,7 +689,21 @@
 
 // Assignment # 1
 
+// var arr = [[0,1,2,3],[1,0,1,2],[2,1,0,1]];
+
+// Assignment # 2
+
+
+
 var arr = [[0,1,2,3],[1,0,1,2],[2,1,0,1]];
 
+for(var i=0 ; i < arr.length; i++ ){
 
+    for(var j = 0 ; j < arr[i].length; j++){
+        document.write(arr[i][j])
+
+    }
+    document.write("<br />")
+
+}
 
